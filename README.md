@@ -66,6 +66,7 @@ Si te interesa trabajar en proyectos de **seguridad informática**, **bases de d
 
 ## 🐍 Snake de contribuciones
 
-![snake gif](https://github.com/luisrendcn/blob/output/github-contribution-grid-snake.gif)
+!![snake gif](https://github.com/luisrendcn/luisrendcn/blob/output/github-contribution-grid-snake.svg)
+
 
 
