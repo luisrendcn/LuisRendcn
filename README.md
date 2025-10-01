@@ -4,6 +4,11 @@
 💻 Enfocado en **ciberseguridad**, **bases de datos** y **desarrollo de software**.  
 🚀 Me gusta aprender nuevas tecnologías y trabajar en proyectos prácticos.  
 
+<h3 align="center">Hola 👋, soy Luis Fernando Rendón</h3>
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+![Banner](https://i.ibb.co/xyz123/banner.png)
+
 ---
 
 ## 🛠️ Tecnologías y herramientas
@@ -27,6 +32,21 @@
 
 ---
 
+## 🙋 Sobre mí
+- 🌱 Actualmente aprendiendo **automatización de pruebas** y **ciberseguridad**  
+- 🎯 Objetivo: especializarme en **ciberseguridad** dentro de la ingeniería de sistemas  
+- ⚡ Curiosidad: disfruto aprender con proyectos prácticos y ver series/TV en mi tiempo libre
+
+## 🏅 Certificaciones
+- AWS Academy Cloud Foundations 
+- Curso de Redes y telecomunicaciones Cisco – Packet Tracer
+
+## 🤝 Colaboremos
+Si te interesa trabajar en proyectos de **seguridad informática**, **bases de datos** o **desarrollo backend**, ¡contáctame!
+
+
+
+
 ## 📈 Estadísticas
 
 ![Luis Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=tokyonight)  
@@ -41,3 +61,12 @@
 ---
 
 ![Visitas](https://komarev.com/ghpvc/?username=TU-USUARIO&color=blue)
+
+
+
+
+## 🐍 Snake de contribuciones
+
+![snake gif](https://github.com/luisrendcn/blob/output/github-contribution-grid-snake.gif)
+
+
