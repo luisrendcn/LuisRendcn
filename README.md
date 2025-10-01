@@ -4,7 +4,6 @@
 💻 Enfocado en **ciberseguridad**, **bases de datos** y **desarrollo de software**.  
 🚀 Me gusta aprender nuevas tecnologías y trabajar en proyectos prácticos.  
 
-<h3 align="center">Hola 👋, soy Luis Fernando Rendón</h3>
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ![Banner](https://i.ibb.co/xyz123/banner.png)
